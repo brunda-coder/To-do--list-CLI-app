@@ -43,7 +43,7 @@ No external libraries are needed — runs with standard Python!
 
 python todo.py
 
->>>> Example Usage
+## Example Usage
 
 ==== To-Do List App ====
 1. Add Task
